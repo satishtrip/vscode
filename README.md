@@ -1,1 +1,1 @@
-# vscode
+Basic JS programs
